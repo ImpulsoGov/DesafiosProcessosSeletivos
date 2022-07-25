@@ -46,7 +46,7 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
   |  Alto Piquiri |  5 |  5 |  Micro |
   |  ... |  ... |  ... |  ... |
 
-2. Como você validaria os dados da sua consulta? [_descritiva_]
+2. Como você validaria os dados da sua consulta? (Não é necessário validar os dados, apenas descreva como você o faria. Você pode responder em um arquivo de texto.) [_descritiva_]
 
 ### Considerações
 
@@ -63,7 +63,6 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
       ```
     
    - Os dados de cada tabela estão nos arquivos CSV desta pasta : [dados_desafio_01](https://github.com/ImpulsoGov/desafios-processos-seletivos/tree/main/20220725_EstagioEngenhariaDeDados/dados_desafio_01)
-   - Não é necessário validar os dados, apenas descreva como você o faria. Você pode responder em um arquivo de texto.
     
 
 ### Entrega
@@ -80,7 +79,7 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
 
 ### Questão
 
-- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela cuja granularidade deverá estar resumida por município e nome do indicador. Realize transformações que julgar necessário e exporte os dados em um arquivo de formato ODS para uma tabela com a seguinte estrutura :
+- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela. Realize transformações que julgar necessário e exporte os dados em um arquivo de formato ODS para uma tabela com a seguinte estrutura :
   
   | campo | tipo  | restrições | 
   | ------------------- | ------------------- | ------------------- |
