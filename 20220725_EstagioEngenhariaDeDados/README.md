@@ -46,7 +46,7 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
   |  Alto Piquiri |  5 |  9 |  Micro |
   |  ... |  ... |  ... |  ... |
 
-2. Como você validaria os dados da sua consulta? (Não é necessário validar os dados, apenas descreva como você o faria. Você pode responder em um arquivo de texto.) [_descritiva_]
+2. Como você validaria os dados da sua consulta? Entenda por "validar" como a maneira que você certificaria que os dados estão corretos (Não é necessário validar os dados, apenas descreva como você o faria). [_descritiva_]
 
 ### Considerações
 
