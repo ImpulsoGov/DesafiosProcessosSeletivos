@@ -1,8 +1,8 @@
 # Desafio ImpulsoGov | Estágio em Engenharia de Dados :hammer:
 ## Instruções gerais
 - Seu desafio idealmente deve ser implementado até 31/07/2022
-- Esse desafio não é uma fase eliminatória
-- Envie sua resolução para gabrielle@impulsogov.org
+- Esse desafio não é uma fase eliminatória 
+- Envie sua resolução descritos nas entregas de cada para o e-mail gabrielle@impulsogov.org com os arquivos em anexo.
 
 ## O que avaliaremos
 - Sua capacidade analítica e criativade para resolver problemas de forma lógica
@@ -63,12 +63,12 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
       ```
     
    - Os dados de cada tabela estão nos arquivos CSV desta pasta : [dados_desafio_01](https://github.com/ImpulsoGov/desafios-processos-seletivos/tree/main/20220725_EstagioEngenhariaDeDados/dados_desafio_01)
-   - Não é necessário validar os dados, apenas descreva como você o faria.
+   - Não é necessário validar os dados, apenas descreva como você o faria. Você pode responder em um arquivo de texto.
     
 
 ### Entrega
 
-Para resolver o desafio você poderá carregar os arquivos em seu banco para testar sua query, mas exigiremos que apresente apenas o código SQL que você usou para fazer a query.
+Apresente apenas o script SQL (ou arquivo em texto com a sua consulta) que você usou para fazer a query.
 
 ---
 
@@ -80,20 +80,20 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
 
 ### Questão
 
-- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela cuja granularidade deverá estar resumida por município e nome do indicador. Realize transformações que julgar necessário e carregue os dados no seu banco local para uma tabela com a seguinte estrutura :
-
-  ```
-  CREATE TABLE sisab_indicadores_municipios (
-              municipio_id_sus varchar(8) NOT NULL,
-              periodo_data date NOT NULL,
-              indicadores_nome varchar(200) NOT NULL,
-              numerador int4 NOT NULL,
-              denominador_utilizado int4 NOT NULL,
-              denominador_identificado int4 NOT NULL,
-              denominador_estimado int4 NOT NULL,
-              nota_porcentagem int4 NOT NULL,
-  CONSTRAINT sisab_indicadores_municipios_pk PRIMARY KEY (municipio_id_sus, indicadores_nome))
-  ```
+- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela cuja granularidade deverá estar resumida por município e nome do indicador. Realize transformações que julgar necessário e exporte os dados em um arquivo de formato ODS para uma tabela com a seguinte estrutura :
+  
+  | campo | tipo  | restrições | 
+  | ------------------- | ------------------- | ------------------- |
+  |  municipio_id_sus |  varchar(8) |  NOT NULL |
+  |  periodo_data |  date |  NOT NULL |
+  |  indicadores_nome |  varchar(200) |  NOT NULL |
+  |  numerador |  int4 |  NOT NULL |
+  |  denominador_utilizado |  int4 |  NOT NULL |
+  |  denominador_identificado |  int4 |  NOT NULL |
+  |  denominador_estimado |  int4 |  NOT NULL |
+  |  nota_porcentagem |  int4 |  NOT NULL |
+  
+  - Chave primária (municipio_id_sus, indicadores_nome)
 
 ### Considerações
 
