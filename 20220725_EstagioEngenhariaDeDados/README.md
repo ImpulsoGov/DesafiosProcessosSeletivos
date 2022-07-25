@@ -2,7 +2,7 @@
 ## Instruções gerais
 - Seu desafio idealmente deve ser implementado até 31/07/2022
 - Esse desafio não é uma fase eliminatória 
-- Envie sua resolução descritos nas entregas de cada para o e-mail gabrielle@impulsogov.org com os arquivos em anexo.
+- Envie sua resolução descritos nas entregas de cada para o e-mail gabrielle@impulsogov.org.
 
 ## O que avaliaremos
 - Sua capacidade analítica e criativade para resolver problemas de forma lógica
@@ -68,7 +68,7 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
 
 ### Entrega
 
-Apresente apenas o script SQL (ou arquivo em texto com a sua consulta) que você usou para fazer a query.
+Script SQL (ou arquivo em texto com a sua consulta) que você usou para fazer a query e documento com questão discursiva.
 
 ---
 
