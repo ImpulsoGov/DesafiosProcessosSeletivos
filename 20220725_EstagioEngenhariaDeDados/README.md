@@ -62,7 +62,7 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
       Grande : Maior de 500.000 habitantes
       ```
     
-   - Os dados de cada tabela estão nos arquivos desta pasta : [dados_desafio_01](https://github.com/ImpulsoGov/desafios-processos-seletivos/tree/main/20220725_EstagioEngenhariaDeDados/dados_desafio_01)
+   - Os dados de cada tabela estão nos arquivos CSV desta pasta : [dados_desafio_01](https://github.com/ImpulsoGov/desafios-processos-seletivos/tree/main/20220725_EstagioEngenhariaDeDados/dados_desafio_01)
    - Não é necessário validar os dados, apenas descreva como você o faria.
     
 
