@@ -1,6 +1,8 @@
 # Desafio ImpulsoGov | Estágio em Engenharia de Dados :hammer:
 ## Instruções gerais
 - Seu desafio idealmente deve ser implementado até (?)
+- Esse desafio não é uma fase eliminatória
+- Envie sua resolução para (?)
 
 ## O que avaliaremos
 - Sua capacidade analítica e criativade para resolver problemas de forma lógica
@@ -61,6 +63,7 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
       ```
     
    - Os dados de cada tabela estão nos arquivos desta pasta : [dados_desafio_01](https://github.com/ImpulsoGov/desafios-processos-seletivos/tree/main/20220725_EstagioEngenhariaDeDados/dados_desafio_01)
+   - Não é necessário validar os dados, apenas descreva como você o faria.
     
 
 ### Entrega
