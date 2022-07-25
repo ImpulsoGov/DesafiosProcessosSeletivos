@@ -40,10 +40,10 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
 ### Questões
 1. A partir das duas tabelas você irá estruturar uma consulta que será utilizada por uma de nossas aplicações e deverá retornar a quantidade de estabelecimentos de saúde, a quantidade de equipes e o porte populacional por município, conforme o modelo abaixo:
 
-  | municipio_nome | estabelcimento_quantidade  | equipe_quantidade | porte_populacional | 
+  | municipio_nome | estabelecimento_quantidade  | equipe_quantidade | porte_populacional | 
   | ------------------- | ------------------- | ------------------- | ------------------- |
-  |  Alto Parnaíba |  4 |  4 |  Pequeno |
-  |  Alto Piquiri |  5 |  5 |  Micro |
+  |  Alto Parnaíba |  4 |  8 |  Pequeno |
+  |  Alto Piquiri |  5 |  9 |  Micro |
   |  ... |  ... |  ... |  ... |
 
 2. Como você validaria os dados da sua consulta? (Não é necessário validar os dados, apenas descreva como você o faria. Você pode responder em um arquivo de texto.) [_descritiva_]
@@ -79,7 +79,7 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
 
 ### Questão
 
-- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela. Realize transformações que julgar necessário e exporte os dados em um arquivo de formato ODS para uma tabela com a seguinte estrutura :
+- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela. Realize transformações que julgar necessário e exporte a tabela final em um arquivo em formato ODS com a seguinte estrutura :
   
   | campo | tipo  | restrições | 
   | ------------------- | ------------------- | ------------------- |
@@ -97,7 +97,7 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
 ### Considerações
 
   - O nome de cada indicador está indicado no cabeçalho de cada arquivo
-  - O `periodo_data` desse relatório corresponde apenas o 1º quadrimestre de 2022 (início em 2022-01-01)
+  - O `periodo_data` desse relatório corresponde apenas ao 1º quadrimestre de 2022 (01/01/2022)
   - O campo `nota_porcentagem` é o resultado do indicador no mês de referência
   - Crie um módulo para o tratamento dos dados
   - Note que os arquivos CSV possuem cabeçalhos e notas de rodapé
