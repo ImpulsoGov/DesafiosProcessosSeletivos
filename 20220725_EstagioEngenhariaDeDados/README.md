@@ -100,7 +100,7 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
   - O nome de cada indicador está indicado no cabeçalho de cada arquivo
   - O `periodo_data` desse relatório corresponde apenas o 1º quadrimestre de 2022 (início em 2022-01-01)
   - O campo `nota_porcentagem` é o resultado do indicador no mês de referência
-  - Crie um módulo para tratamento dos dados e outro para fazer a inserção no banco
+  - Crie um módulo para o tratamento dos dados e outro para fazer a inserção no banco
   - Você deverá carregar os dados no seu banco local. Queremos avaliar como você faria essa inserção genericamente.
 
 ### Entrega
