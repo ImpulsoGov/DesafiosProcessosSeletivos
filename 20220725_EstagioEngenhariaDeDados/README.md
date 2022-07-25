@@ -5,7 +5,7 @@
 ## O que avaliaremos
 - Sua capacidade analítica e criativade para resolver problemas de forma lógica
 - Seus conhecimentos com banco de dados em SQL e Python
-- A qualidade do seu código
+- A qualidade do seu código em relação a clareza e funcionalidade
 
 *Dica: Resolva o máximo que você puder, evite enviar questão em branco.*
 
