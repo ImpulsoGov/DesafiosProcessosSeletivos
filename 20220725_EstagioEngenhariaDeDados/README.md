@@ -1,8 +1,8 @@
 # Desafio ImpulsoGov | Estágio em Engenharia de Dados :hammer:
 ## Instruções gerais
-- Seu desafio idealmente deve ser implementado até (?)
+- Seu desafio idealmente deve ser implementado até 31/07/2022
 - Esse desafio não é uma fase eliminatória
-- Envie sua resolução para (?)
+- Envie sua resolução para gabrielle@impulsogov.org
 
 ## O que avaliaremos
 - Sua capacidade analítica e criativade para resolver problemas de forma lógica
