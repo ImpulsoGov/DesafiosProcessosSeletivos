@@ -32,9 +32,9 @@ CONSTRAINT municipios_sisab_cadastros_pk PRIMARY KEY (municipio_id_sus, periodo_
 Um outra tabela chamada `municipios` resume o total de habitantes de cada município. As duas tabelas se relacionam em uma relação do tipo *1:N* (*um para muitos*), como pode ser visto na figura abaixo:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/20220725_EstagioEngenhariaDeDados/imagens/1_N.png">
-  <source media="(prefers-color-scheme: light)" srcset="/20220725_EstagioEngenhariaDeDados/imagens/1_N.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="/20220725_EstagioEngenhariaDeDados/imagens/1_N.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/20220725_EstagioEngenhariaDeDados/1_N.png">
+  <source media="(prefers-color-scheme: light)" srcset="/20220725_EstagioEngenhariaDeDados/1_N.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="/20220725_EstagioEngenhariaDeDados/1_N.png">
 </picture>
 
 ### Questões
