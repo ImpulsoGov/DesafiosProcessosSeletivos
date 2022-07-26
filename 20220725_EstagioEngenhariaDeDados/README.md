@@ -79,7 +79,7 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
 
 ### Questão
 
-- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela. Realize transformações que julgar necessário e exporte a tabela final em um arquivo em formato ODS com a seguinte estrutura :
+- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela. Realize transformações que julgar necessárias e exporte a tabela final em um arquivo de formato ODS com a seguinte estrutura :
   
   | campo | tipo  | restrições | 
   | ------------------- | ------------------- | ------------------- |
@@ -96,11 +96,12 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
 
 ### Considerações
 
+  - Note que os arquivos CSV possuem cabeçalhos e notas de rodapé
   - O nome de cada indicador está indicado no cabeçalho de cada arquivo
   - O `periodo_data` desse relatório corresponde apenas ao 1º quadrimestre de 2022 (01/01/2022)
   - O campo `nota_porcentagem` é o resultado do indicador no mês de referência
   - Crie um módulo para o tratamento dos dados
-  - Note que os arquivos CSV possuem cabeçalhos e notas de rodapé
+  
 
 ### Entrega
 
