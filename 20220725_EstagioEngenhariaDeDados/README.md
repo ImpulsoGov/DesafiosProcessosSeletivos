@@ -19,7 +19,6 @@ Na Impulso você trabalhará com os dados do SUS, frequentemente relacionado à 
 
 ```
 CREATE TABLE municipios_sisab_cadastros (
-            id uiid NOT NULL,
             municipio_id_sus varchar(8) NOT NULL,
             periodo_data date NOT NULL,
             estabelecimento_nome varchar(60) NOT NULL,
