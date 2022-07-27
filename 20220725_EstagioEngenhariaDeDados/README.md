@@ -84,7 +84,7 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
   | ------------------- | ------------------- | ------------------- |
   |  municipio_id_sus |  varchar(8) |  NOT NULL |
   |  periodo_data |  date |  NOT NULL |
-  |  indicadores_nome |  varchar(200) |  NOT NULL |
+  |  indicador_nome |  varchar(200) |  NOT NULL |
   |  numerador |  int4 |  NOT NULL |
   |  denominador_utilizado |  int4 |  NOT NULL |
   |  denominador_identificado |  int4 |  NOT NULL |
