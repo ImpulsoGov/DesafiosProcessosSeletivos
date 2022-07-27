@@ -68,7 +68,7 @@ Como estagiária em engenharia de dados uma das suas principais atribuições se
 
 ### Questão
 
-- A partir dos arquivos recebidos, você deverá modelar os dados para que sejam carregados em uma única tabela. Realize transformações que julgar necessárias e exporte a tabela final em um arquivo de formato ODS com a seguinte estrutura :
+- A partir dos arquivos recebidos, você deverá modelar os dados para que todos sejam unidos e carregados em uma única tabela. Realize transformações que julgar necessárias e exporte a tabela final em um arquivo de formato ODS com a seguinte estrutura :
   
   | campo | tipo  | restrições | 
   | ------------------- | ------------------- | ------------------- |
