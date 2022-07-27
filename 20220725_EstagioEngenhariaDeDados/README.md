@@ -37,12 +37,12 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
 </picture>
 
 ### Questões
-1. A partir das duas tabelas você irá estruturar uma consulta que será utilizada por uma de nossas aplicações e deverá retornar a quantidade de estabelecimentos de saúde, a quantidade de equipes e o porte populacional por município, conforme o modelo abaixo:
+1. A partir das duas tabelas você irá estruturar uma consulta que será utilizada por uma de nossas aplicações e deverá retornar a quantidade de estabelecimentos de saúde, a quantidade de equipes e a quantidade de populacao, conforme o modelo abaixo:
 
-  | municipio_nome | estabelecimento_quantidade  | equipe_quantidade | porte_populacional | 
+  | municipio_nome | estabelecimento_quantidade  | equipe_quantidade | populacao | 
   | ------------------- | ------------------- | ------------------- | ------------------- |
-  |  Alto Parnaíba |  4 |  8 |  Pequeno |
-  |  Alto Piquiri |  5 |  9 |  Micro |
+  |  Municipio X |  4 |  8 |  50000 |
+  |  Municipio Y |  5 |  9 |  2000 |
   |  ... |  ... |  ... |  ... |
 
 2. Como você validaria os dados da sua consulta? Entenda por "validar" como a maneira que você certificaria que os dados estão corretos (Não é necessário validar os dados, apenas descreva como você o faria). [_descritiva_]
@@ -50,18 +50,8 @@ Um outra tabela chamada `municipios` resume o total de habitantes de cada munic�
 ### Considerações
 
   - Considere apenas o mês de maio (05/2022) e cadastros sem critério de pontuação (false)
-  - O porte populacional deverá seguir a seguinte regra:
-      ```
-      Micro : Menor que 10.000 habitantes
-      
-      Pequeno : Entre 10.000 e 100.000 habitantes
-      
-      Médio : Entre 100.00 habitantes e 500.000 habitantes
-      
-      Grande : Maior de 500.000 habitantes
-      ```
-    
-   - Os dados de cada tabela estão nos arquivos CSV desta pasta : [dados_desafio_01](https://github.com/ImpulsoGov/desafios-processos-seletivos/tree/main/20220725_EstagioEngenhariaDeDados/dados_desafio_01)
+  - Os dados de cada tabela estão nos arquivos CSV desta pasta : [dados_desafio_01](https://github.com/ImpulsoGov/desafios-processos-seletivos/tree/main/20220725_EstagioEngenhariaDeDados/dados_desafio_01)
+  - Você pode importar os dados no [SQLite Online](https://sqliteonline.com/) e testar lá sua query.
     
 
 ### Entrega
