@@ -6,13 +6,14 @@ Este repositório contém as instruções para lhe orientar na execução do des
 
 ## Instruções gerais
 
-- Seu desafio idealmente deve ser implementado até XX/01/2023.
+- Seu desafio idealmente deve ser implementado até 09/01/2023.
 - O desafio deve ser implementado em um único repositório do GitHub, ou em um
 repositório para cada uma das questões (como preferir). Os repositórios podem
 ser públicos ou privados; se forem privados, compartilhe-os com os e-mails
-<gabrielle@impulsogov.org> e <bernardo@impulsogov.org>.
+<gabrielle@impulsogov.org>, <bernardo@impulsogov.org> e <danilo@impulsogov.org>.
 - Ao finalizar o desafio, avise-nos por meio dos e-mails mencionados acima,
 apontando o(s) link(s) do(s) repositório(s) para que possamos avaliar
+- Qualquer dúvida entrar em contato com <gabrielle@impulsogov.org>.
 
 ## O que avaliaremos
 
