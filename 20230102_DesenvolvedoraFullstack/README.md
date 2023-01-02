@@ -30,7 +30,7 @@ Este repositório possui dois diretórios, cada um contendo um dos desafios que
 você deverá entregar:
 
 - Desafio 1 (*backend*): implementar uma API de estabelecimentos de saúde.
-- Desafio 2 (*front-end*): criar uma página de FAQ com os componentes do Design
+- Desafio 2 (*front-end*): criar uma aplicação NextJs com os componentes do Design
 System da Impulso Gov.
 
 Cada diretório possui um arquivo `README.md` com instruções detalhadas para
