@@ -12,7 +12,11 @@ Ao abrir o modal novamente, deverá abrir com o ultimo municipio selecionado.
 
 Lembre-se que sua aplicação deve ser responsiva para diferentes tamanhos de telas (Desktop).
 
-Dica: se inspire [nesse código](https://github.com/ImpulsoGov/SaudeMental/blob/main/pages/index.js).
+Dica 1: se inspire [nesse código](https://github.com/ImpulsoGov/SaudeMental/blob/main/pages/index.js).
+
+Dica 2: se inspire [nesse código](https://github.com/ImpulsoGov/SaudeMental/blob/main/next.config.js) para configuração do seu arquivo next.config.js
+
+Dica 3: Utilize nextjs v12.1.6 
 
 ## O que você precisa entregar
 
