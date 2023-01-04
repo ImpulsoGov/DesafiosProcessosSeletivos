@@ -8,7 +8,8 @@ Sistema Único de Saúde brasileiro.
 
 Neste desafio, você deverá implementar um *webservice* semelhante ao que
 usuaríamos em uma de nossas plataformas, para **retornar dados dos
-estabelecimentos de saúde** vinculados ao SUS, tais como nome e localização.
+estabelecimentos de saúde** vinculados ao SUS, tais como nome e localização
+(latitude e longitude).
 
 Para isso, você deve consultar a tabela `estabelecimentos` que se encontra
 armazenada no arquivo [`dados.db`](./dados.db). Esse arquivo é um banco de
@@ -38,12 +39,12 @@ A partir dos dados fornecidos,
 - *Endpoint* `listarEstabelecimentosPorMunicipio` (GET): recebe como parâmetro
 um valor correspondente à coluna `municipio_id_sus`, e retorna um JSON com
 uma lista de objetos, em que cada objeto contém as informações
-(*código CNES, nome, localização*) de um estabelecimeto de saúde localizado no
-município solicitado.
+(*código CNES, nome, latitude e longitude*) de um estabelecimeto de saúde
+localizado no município solicitado.
 - *Endpoint* `obterEstabelecimentoPorId` (GET): recebe como parâmetro um valor
 correspondente à coluna `id_cnes` e retorna um JSON contendo unicamente um
-objeto com as informações (*código CNES, nome, localização*) do estabelecimento
-solicitado.
+objeto com as informações (*código CNES, nome, latitude e longitude*) do
+estabelecimento solicitado.
 
 Incentivamos *fortemente* você a tentar construir a sua API usando Python e a
 biblioteca [FastAPI](https://fastapi.tiangolo.com/). Porém, se isso for um
