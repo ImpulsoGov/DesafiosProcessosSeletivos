@@ -12,6 +12,8 @@ Ao abrir o modal novamente, deverá abrir com o ultimo municipio selecionado.
 
 Lembre-se que sua aplicação deve ser responsiva para diferentes tamanhos de telas (Desktop).
 
+Dica: se inspire [nesse código](https://github.com/ImpulsoGov/SaudeMental/blob/main/pages/index.js).
+
 ## O que você precisa entregar
 
 Repositório no github com o codigo da aplicação.
