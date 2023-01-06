@@ -22,7 +22,7 @@ lógica.
 - Seus conhecimentos com banco de dados em front-end e backend.
 - A qualidade do seu código em relação a clareza e funcionalidade.
 
-*Dica: Resolva o máximo que você puder, evite enviar questão em branco.*
+*Dica: Resolva o máximo que você puder, evite enviar questão em branco, mas se não conseguir fazer todas, envie mesmo assim.*
 
 ## Os desafios
 
