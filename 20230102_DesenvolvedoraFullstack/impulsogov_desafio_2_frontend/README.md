@@ -6,7 +6,7 @@ Dentro da rotina de um desenvolvedor Fullstack na ImpulsoGov, esta a criação e
 
 Para a construção da tela inicial você deve consumir o componente [InfoTab](https://designsystem.impulsogov.org/?path=/docs/componentes-infotab--default) (Click em show code para visualizar um exemplo de consumo) do [design-system](https://www.npmjs.com/package/@impulsogov/design-system) da Impulso.
 
-Quando o usuario clickar no logo da ImpulsoGov deverá surgir um modal conforme protótipo, dentro do modal deverá aparecer as sugestões de municipios do Brasil de acordo com o que for digitado.
+Quando o usuario clickar no logo da ImpulsoGov deverá surgir um modal - que você deve desenvolver conforme protótipo. Dentro do modal deverá aparecer as sugestões de municipios do Brasil de acordo com o que for digitado.
 
 Ao abrir o modal novamente, deverá abrir com o ultimo municipio selecionado.
 
