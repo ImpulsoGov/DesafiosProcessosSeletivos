@@ -39,7 +39,7 @@ O codigo pode ser implementado na plataforma [One compiler](https://onecompiler.
 
 
 ### Entrega
-- Para esta entrega esperamos um repositório público ou privado (compartilhado com o email gabrielle@impulsogov.org e danilo@impulsogov.org) no github que possa ser rodado localmente ou já hosteado.
+- Para esta entrega esperamos um repositório público ou privado (compartilhado com o email gabriellearrudac@gmail.com e danilo@impulsogov.org) no github que possa ser rodado localmente ou já hosteado.
 
 
 ## Desafio 2 - API
@@ -47,6 +47,6 @@ O codigo pode ser implementado na plataforma [One compiler](https://onecompiler.
 Crie uma API em FastAPI com um endpoint que retorne o horario atual dos fusos horários (-3 GMT) e (GMT – 5).
 
 ### Entrega
-- Para esta entrega esperamos um repositório público ou privado (compartilhado com o email gabrielle@impulsogov.org) no github que possa ser rodado localmente ou já hosteado.
+- Para esta entrega esperamos um repositório público ou privado (compartilhado com o email gabriellearrudac@gmail.com) no github que possa ser rodado localmente ou já hosteado.
 
 **Para ir além:** você pode implementar os fuso horários como um parâmetro da sua API.
