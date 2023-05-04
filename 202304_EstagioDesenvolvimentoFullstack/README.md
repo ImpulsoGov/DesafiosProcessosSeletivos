@@ -6,7 +6,7 @@ Este arquivo contém as instruções de dois desafios que constituem a primeira 
 
 
 ## Instruções Gerais 
-- **Seus desafios deve ser entregue até domingo (23/04/2022), às 23:59**. 
+- **Seus desafios deve ser entregue até domingo (08/05/2023), às 23:59**. 
 - Você deve enviar um email com suas soluções para gabrielle@impulsogov.org.
 
 
@@ -33,7 +33,7 @@ Criar um componente Reactjs (JS) que receberá um JSON com nomes e notas como pr
   }
 ]
 
-O nome deve ser exibido pelo componente centralizado na vertical e na horizontal e em ordem alfabética, se a nota do menor que 5, o nome deve aparecer em vermelho, se a nota for maior ou igual a 5, o nome deve aparecer em verde:
+O nome deve ser exibido pelo componente centralizado na vertical e na horizontal e em ordem alfabética, se a nota do menor que 50, o nome deve aparecer em vermelho, se a nota for maior ou igual a 50, o nome deve aparecer em verde:
 
 O codigo pode ser implementado na plataforma [One compiler](https://onecompiler.com/react)
 
