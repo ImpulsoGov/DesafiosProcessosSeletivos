@@ -26,7 +26,7 @@ Entretando recentemente queremos atualizar nosso transmissor, e queremos sua aju
 ![image](https://github.com/ImpulsoGov/desafios-processos-seletivos/blob/main/202307_EngenhariadeDados/Untitled.png?raw=true)
 - **Queremos reduzir e tornar mais eficiente a resolução de falhas nas transmissões**: As falhas nas transmissões ocorrem principalmente devido a três fatores: a) problemas de conectividade na rede do servidor municipal; b) manutenções no servidor municipal que afetam o estado do nosso programa; e c) inatividade da máquina municipal devido a eventos específicos do município, como feriados, ausência de suporte de TI, migração para novos computadores, entre outros. Hoje não temos que nos tornam capazes de depurar o problema da falha de transmissão, mesmo os já conhecidos, sem antes entrar em contato com o município para fazer perguntas e entrar no servidor deles se necessário.
 
-Pensando nisso, como você pensaria nesse modelo?
+Pensando nisso, como você modificaria esse modelo?
 
 ## Entrega
 Esperamos um arquivo de formato de sua preferência (texto/video/audio) com suas respostas e seu embasamento para sua proposta. Não esperamos uma resposta muito "bonita" ou "perfeitamente estruturada/completa", o mais importante é você nos mostrar porque escolheria tal opção, seja baseado em pesquisa que realizou ou na sua experiência prévia. Caso deseje mais informações, basta solicitar por email.
