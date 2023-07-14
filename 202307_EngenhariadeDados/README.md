@@ -5,7 +5,7 @@
 - Envie sua resolução descritos para o e-mail gabrielle@impulsogov.org, bernardo@impulsogov.org e walter@impulsogov.org.
 
 ## Enunciado
-Hoje em um dos nossos principais produtos o Impulso Previne entregamos listas nominais de publicos prioritários em uma interface intuitiva. Para isso puxamos dados do banco de dados do municipio (que é um PostgreSQL) e enviamos para o nosso banco. Fazemos isso utilizando a extensão do *postgres_fdw*, e chamamos esse processo de transmissor. O transmissor em produção é um script SQL responsável por conectar e integrar bancos de dados, permitindo operações de leitura e escrita. Ele é executado no banco ESUS do município e segue o seguinte fluxo:
+Hoje em um dos nossos principais produtos o Impulso Previne entregamos listas nominais de publicos prioritários em uma interface intuitiva. Para isso puxamos dados do banco de dados do municipio (que é um PostgreSQL) e enviamos para o nosso banco. Fazemos isso utilizando a extensão do *postgres_fdw*, e chamamos esse processo de transmissão. O transmissor em produção é um script SQL responsável por conectar e integrar bancos de dados, permitindo operações de leitura e escrita. Ele é executado no banco ESUS do município e segue o seguinte fluxo:
 
 ![image](https://github.com/ImpulsoGov/desafios-processos-seletivos/blob/main/202307_EngenhariadeDados/Captura%20de%20tela%20de%202023-06-26%2014-32-34.png?raw=true)
 
