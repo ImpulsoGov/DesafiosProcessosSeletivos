@@ -5,7 +5,8 @@ Seja bem-vinda ao desafio técnico da vaga para de Tech Lead - Pessoa Engenheira
 
 
 ### Os problemas atuais
-- 
+
+Gostaríamos que você realizasse uma proposta de redesenho que solucione os problemas acima.
 
 ### Como será avaliado
 Seu projeto deve conter:
