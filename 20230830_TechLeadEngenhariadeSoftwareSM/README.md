@@ -8,6 +8,8 @@ Seja bem-vinda ao desafio técnico da vaga para de Tech Lead - Pessoa Engenheira
 - Mesmo que não consiga finalizar o desafio inteiro, envie sua resposta parcial para nós!
 
 # Desafio
+Ao mesmo tempo que 
+
 A sua equipe é composta de (a) uma pessoa engenheira de dados plena e (b) uma pessoa engenheira de software júnior, e você pode consultar da equipe da Impulso um engenheiro de dados sênior.
 
 Além disso seu plano deve abordar os seguintes pontos:
