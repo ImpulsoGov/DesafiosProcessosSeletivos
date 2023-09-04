@@ -9,12 +9,13 @@ Seja bem-vinda ao desafio técnico da vaga para de Tech Lead - Pessoa Engenheira
 
 # Desafio I
 
-Você esta no time de saúde mental e o lançamento da primeira versão do produto para 10 novos municipios em 8 estados diferentes irá ocorrer em 7 dias (contando o final de semana). O desenvolvimento do back-end e front-end já estavam feitos e esta marcado para daqui a 3 dias uma rodada de testes de uso, entretanto com dados parciais, pois o time de engenharia de dados ainda estava captando os dados. Hoje os dados ficaram prontos, porém a aplicação esta muito lenta (mais de 18 segundos de carregamento), pois a as tabelas que a API lê estão configuradas para fazer uma requisição do mesmo modelo que a ferramenta de BI usada anteriormente, ou seja, com tabelas muito grandes e flexiveis para serem feitas várias consultas na mesma tabela, porém causando uma lentidão muito grande.
+Você esta no time de saúde mental e o lançamento da primeira versão do produto para 10 novos municipios em 8 estados diferentes irá ocorrer em 7 dias (contando o final de semana). O desenvolvimento do back-end e front-end já estavam feitos e esta marcado para daqui a 3 dias uma rodada de testes de uso, entretanto com dados parciais, pois o time de engenharia de dados ainda estava captando os dados. Hoje os dados ficaram prontos, porém a aplicação esta muito lenta (mais de 30 segundos de carregamento), pois a as tabelas que a API lê estão configuradas para fazer uma requisição do mesmo modelo que a ferramenta de BI usada anteriormente, ou seja, com tabelas muito grandes e flexiveis para serem feitas várias consultas na mesma tabela, porém causando uma lentidão muito grande especialmente nas cidades com muitos registros e nas páginas com muitos gráficos.
 
 Você tem na sua equipe:
 - Uma Gerente de produto 
 - Uma pessoa desenvolvedora júnior 
 - Uma engenheira de dados plena
+
 Quais alternativas você tomaria? Como organizaria os recursos que você tem? Quais soluções para o lançamento e para após você proporia?
 
 
