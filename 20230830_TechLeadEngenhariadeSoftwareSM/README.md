@@ -9,26 +9,29 @@ Seja bem-vinda ao desafio técnico da vaga para de Tech Lead - Pessoa Engenheira
 
 # Desafio I
 
-Você esta no time de saúde mental e o lançamento da primeira versão do produto para 10 novos municipios em 8 estados diferentes irá ocorrer em 7 dias (contando o final de semana). O desenvolvimento do back-end e front-end já estavam feitos e esta marcado para daqui a 3 dias uma rodada de testes de uso, entretanto com dados parciais, pois o time de engenharia de dados ainda estava captando os dados. Hoje os dados ficaram prontos, porém a aplicação esta muito lenta (mais de 30 segundos de carregamento), pois a as tabelas que a API lê estão configuradas para fazer uma requisição do mesmo modelo que a ferramenta de BI usada anteriormente, ou seja, com tabelas muito grandes e flexiveis para serem feitas várias consultas na mesma tabela, porém causando uma lentidão muito grande especialmente nas cidades com muitos registros e nas páginas com muitos gráficos.
+Você esta no time de saúde mental e o lançamento da primeira versão do produto para 10 novos municipios em 8 estados diferentes irá ocorrer em 7 dias (contando o final de semana), e esse prazo já foi o segundo remarcado dado atraso anterior na captura dos dados. O desenvolvimento do back-end e front-end já estavam feitos e esta marcado para daqui a 3 dias uma rodada de testes de uso, entretanto com dados parciais, pois o time de engenharia de dados ainda estava captando os dados. Hoje os dados ficaram prontos, porém a aplicação esta muito lenta (mais de 30 segundos de carregamento), pois a as tabelas que a API lê estão configuradas para fazer uma requisição do mesmo modelo que a ferramenta de BI usada anteriormente, ou seja, com tabelas muito grandes e flexiveis para serem feitas várias consultas na mesma tabela, porém causando uma lentidão muito grande especialmente nas cidades com muitos registros e nas páginas com muitos gráficos.
 
 Você tem na sua equipe:
-- Uma Gerente de produto 
-- Uma pessoa desenvolvedora júnior 
-- Uma engenheira de dados plena
+- Uma Gerente de produto: que faz o relacionamento com os municipios e toma a decisão de 
+- Uma pessoa desenvolvedora júnior.
+- Uma engenheira de dados plena.
 
-Quais alternativas você tomaria? Como organizaria os recursos que você tem? Quais soluções para o lançamento e para após você proporia?
+Quais alternativas você pensaria? Quais os lados positivos e negativos de cada decisão? Como organizaria os recursos que você tem? Quais soluções para o lançamento e para após você proporia?
 
 
 # Desafio II
 
-Suponha, que hoje você trabalhe no projeto de Saúde Mental e que a sua equipe é composta de (a) uma pessoa engenheira de dados plena e (b) uma pessoa engenheira de software júnior, e você pode consultar da equipe da Impulso um engenheiro de dados sênior. Hoje o seu principal problema é que o orquestrador de tarefas automatico para captura de novos dados esta com problemas, e se demora muito para fazer manualmente. Além disso você ainda tem novos paineis e melhorias a fazer. Apesar disso você tem que a meta de conseguir expandir para 10 novos municipios até o final de novembro (além de outros 10 novos para o ano que vem).
+Suponha, que hoje você trabalhe no projeto de Saúde Mental e que a sua equipe é composta de (a) uma pessoa engenheira de dados plena e (b) uma pessoa engenheira de software júnior, e você pode consultar da equipe da Impulso um engenheiro de dados sênior. Hoje o seu principal problema é que o orquestrador de tarefas automatico para captura de novos dados esta com problemas, e se demora muito para fazer manualmente. Além disso você ainda tem novos paineis e melhorias a fazer. Apesar disso você tem que a meta de conseguir expandir para 5 novos municipios até o final de novembro (além de outros 5 novos para o ano que vem).
 
-Elabore um plano para atingir seu objetivo.
+Elabore um plano (com no minimo abordar os seguintes pontos: ciclos, mentoria e comunicação) para atingir seu objetivo. 
 
-Seu plano deve no minimo abordar os seguintes pontos:
-- **Ciclo de Entrega**: Descreva como você estruturaria os ciclos de entrega (quinzenais) para garantir um equilíbrio entre a entrega constante de valor aos clientes e a capacidade de realizar aprimoramentos significativos.
-- **Mentoria da Equipe**: Descreva como você planeja orientar e capacitar os membros da equipe de engenharia para que eles entendam e sigam as novas diretrizes.
-- **Comunicação e Transparência**: Como você comunicaria o roadmap aos stakeholders internos e externos, garantindo transparência e gerenciando expectativas?
+
+# Mais informações
+
+Abaixo segue a arquitetura de seu projeto.
+
+<img src="https://github.com/ImpulsoGov/desafios-processos-seletivos/blob/main/20230830_TechLeadEngenhariadeSoftwareSM/Documenta%C3%A7%C3%B5es%20-%20Fluxo%20Publicos%20para%20Embarque%20(1).jpg?raw=true"> 
+
 
 # Entregavél
 Prepare de formato de sua preferência (texto/video/audio) detalhando seu plano, abordando todos os pontos mencionados acima.
